@@ -1,0 +1,26 @@
+EmployeeKey,EmployeeName,Department,JobTitle,Email,AuthorizationLimit,City,State
+EMP001,Eleanor Vance,Procurement,Chief Procurement Officer,e.vance@enterprise.com,1000000,New York,NY
+EMP002,Marcus Sterling,Information Technology,VP of Technology,m.sterling@enterprise.com,500000,New York,NY
+EMP003,Sarah Jenkins,Finance & Accounting,Corporate Controller,s.jenkins@enterprise.com,250000,New York,NY
+EMP004,David Kim,Operations,Director of Supply Chain,d.kim@enterprise.com,150000,Jersey City,NJ
+EMP005,Rachel Adams,Procurement,Sourcing Manager,r.adams@enterprise.com,50000,Summit,NJ
+EMP006,Brian O'Connor,Information Technology,IT Infrastructure Manager,b.oconnor@enterprise.com,50000,Hoboken,NJ
+EMP007,Lisa Perez,Facilities,Facilities Director,l.perez@enterprise.com,30000,White Plains,NY
+EMP008,Thomas Wright,Corporate Marketing,Marketing Director,t.wright@enterprise.com,25000,New York,NY
+EMP009,Karen Mitchell,Operations,Plant Operations Manager,k.mitchell@enterprise.com,25000,Newark,NJ
+EMP010,Kevin Zhang,Procurement,Senior Sourcing Specialist,k.zhang@enterprise.com,10000,Fort Lee,NJ
+EMP011,Amanda Foster,Procurement,Procurement Specialist,a.foster@enterprise.com,10000,Hoboken,NJ
+EMP012,Daniel Ross,Information Technology,Lead Cloud Architect,d.ross@enterprise.com,10000,Stamford,CT
+EMP013,Jessica Taylor,Procurement,Junior Buyer,j.taylor@enterprise.com,2500,Jersey City,NJ
+EMP014,Christopher Cole,Information Technology,Systems Administrator,c.cole@enterprise.com,1000,Morristown,NJ
+EMP015,Ashley Green,Operations,Warehouse Coordinator,a.green@enterprise.com,1000,Elizabeth,NJ
+EMP016,Matthew Scott,Corporate Marketing,Digital Campaign Specialist,m.scott@enterprise.com,1000,New York,NY
+EMP017,Nicole Bell,Facilities,Office Services Coordinator,n.bell@enterprise.com,1000,Paterson,NJ
+EMP018,Anthony Harris,Procurement,Buyer,a.harris@enterprise.com,5000,Englewood,NJ
+EMP019,Robert Mercer,Procurement,Category Sourcing Lead,r.mercer@enterprise.com,20000,Springfield,NJ
+EMP020,Samantha Drake,Operations,Inventory Analyst,s.drake@enterprise.com,1000,Wayne,NJ
+EMP021,Carlos Mendez,Operations,Receiving Dock Supervisor,c.mendez@enterprise.com,0,Bayonne,NJ
+EMP022,Gregory House,Operations,Receiving Clerk,g.house@enterprise.com,0,Newark,NJ
+EMP023,Megan Fox,Finance & Accounting,AP Specialist,m.fox@enterprise.com,5000,Brooklyn,NY
+EMP024,Patrick Stewart,Finance & Accounting,AP Manager,p.stewart@enterprise.com,50000,Brooklyn,NY
+EMP025,Diana Prince,Finance & Accounting,Senior Internal Auditor,d.prince@enterprise.com,0,Queens,NY

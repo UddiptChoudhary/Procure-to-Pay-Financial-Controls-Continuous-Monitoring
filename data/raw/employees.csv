@@ -1,0 +1,26 @@
+employee_id,first_name,last_name,department,job_title,email,approval_limit,bank_account_number,street_address,city,state,postal_code
+EMP001,Eleanor,Vance,Procurement,Chief Procurement Officer,e.vance@enterprise.com,1000000.0,98765432101,100 Executive Way,New York,NY,10001
+EMP002,Marcus,Sterling,Information Technology,VP of Technology,m.sterling@enterprise.com,500000.0,98765432102,250 Park Ave,New York,NY,10017
+EMP003,Sarah,Jenkins,Finance & Accounting,Corporate Controller,s.jenkins@enterprise.com,250000.0,98765432103,45 Wall St,New York,NY,10005
+EMP004,David,Kim,Operations,Director of Supply Chain,d.kim@enterprise.com,150000.0,98765432104,88 Industrial Pkwy,Jersey City,NJ,07302
+EMP005,Rachel,Adams,Procurement,Sourcing Manager,r.adams@enterprise.com,50000.0,98765432105,12 Maple St,Summit,NJ,07901
+EMP006,Brian,O'Connor,Information Technology,IT Infrastructure Manager,b.oconnor@enterprise.com,50000.0,98765432106,77 Silicon Way,Hoboken,NJ,07030
+EMP007,Lisa,Perez,Facilities,Facilities Director,l.perez@enterprise.com,30000.0,98765432107,304 Elm Blvd,White Plains,NY,10601
+EMP008,Thomas,Wright,Corporate Marketing,Marketing Director,t.wright@enterprise.com,25000.0,98765432108,19 Broadway,New York,NY,10006
+EMP009,Karen,Mitchell,Operations,Plant Operations Manager,k.mitchell@enterprise.com,25000.0,98765432109,51 Warehouse Rd,Newark,NJ,07105
+EMP010,Kevin,Zhang,Procurement,Senior Sourcing Specialist,k.zhang@enterprise.com,10000.0,98765432110,404 Cedar Ln,Fort Lee,NJ,07024
+EMP011,Amanda,Foster,Procurement,Procurement Specialist,a.foster@enterprise.com,10000.0,98765432111,90 River St,Hoboken,NJ,07030
+EMP012,Daniel,Ross,Information Technology,Lead Cloud Architect,d.ross@enterprise.com,10000.0,98765432112,22 Beacon St,Stamford,CT,06901
+EMP013,Jessica,Taylor,Procurement,Junior Buyer,j.taylor@enterprise.com,2500.0,98765432113,14 Oak Ave,Jersey City,NJ,07304
+EMP014,Christopher,Cole,Information Technology,Systems Administrator,c.cole@enterprise.com,1000.0,98765432114,85 Pine Blvd,Morristown,NJ,07960
+EMP015,Ashley,Green,Operations,Warehouse Coordinator,a.green@enterprise.com,1000.0,98765432115,103 Logistics Way,Elizabeth,NJ,07201
+EMP016,Matthew,Scott,Corporate Marketing,Digital Campaign Specialist,m.scott@enterprise.com,1000.0,98765432116,62 Lexington Ave,New York,NY,10010
+EMP017,Nicole,Bell,Facilities,Office Services Coordinator,n.bell@enterprise.com,1000.0,98765432117,33 High St,Paterson,NJ,07505
+EMP018,Anthony,Harris,Procurement,Buyer,a.harris@enterprise.com,5000.0,98765432118,71 Grand Ave,Englewood,NJ,07631
+EMP019,Robert,Mercer,Procurement,Category Sourcing Lead,r.mercer@enterprise.com,20000.0,11223344550,742 Evergreen Terrace,Springfield,NJ,07081
+EMP020,Samantha,Drake,Operations,Inventory Analyst,s.drake@enterprise.com,1000.0,98765432120,88 Lakeview Dr,Wayne,NJ,07470
+EMP021,Carlos,Mendez,Operations,Receiving Dock Supervisor,c.mendez@enterprise.com,0.0,98765432121,12 Dockside Way,Bayonne,NJ,07002
+EMP022,Gregory,House,Operations,Receiving Clerk,g.house@enterprise.com,0.0,98765432122,44 Port Rd,Newark,NJ,07114
+EMP023,Megan,Fox,Finance & Accounting,AP Specialist,m.fox@enterprise.com,5000.0,98765432123,19 Flatbush Ave,Brooklyn,NY,11217
+EMP024,Patrick,Stewart,Finance & Accounting,AP Manager,p.stewart@enterprise.com,50000.0,98765432124,55 Court St,Brooklyn,NY,11201
+EMP025,Diana,Prince,Finance & Accounting,Senior Internal Auditor,d.prince@enterprise.com,0.0,98765432125,10 Queens Blvd,Queens,NY,11101

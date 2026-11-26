@@ -1,0 +1,191 @@
+// ====================================================================
+// PROCURE-TO-PAY (P2P) FINANCIAL CONTROLS & AUDIT ANALYTICS
+// Enterprise DAX Measure Library for Power BI
+// ====================================================================
+
+// --------------------------------------------------------------------
+// 1. Core Spend & Volume Measures
+// --------------------------------------------------------------------
+
+Total Procurement Spend = 
+SUM('Fact_Purchase_Orders'[POTotalAmount])
+
+Total Invoiced Spend = 
+SUM('Fact_Invoices'[InvoiceAmount])
+
+Total Disbursed Amount = 
+SUM('Fact_Payments'[PaymentAmount])
+
+Total Purchase Orders Count = 
+DISTINCTCOUNT('Fact_Purchase_Orders'[POKeys])
+
+Total Invoices Count = 
+DISTINCTCOUNT('Fact_Invoices'[InvoiceKey])
+
+Total Payments Disbursed Count = 
+DISTINCTCOUNT('Fact_Payments'[PaymentKey])
+
+Active Vendors Engaged = 
+DISTINCTCOUNT('Fact_Purchase_Orders'[VendorKey])
+
+// --------------------------------------------------------------------
+// 2. Financial Control Exceptions & Exposure Measures
+// --------------------------------------------------------------------
+
+Total Control Exceptions = 
+COUNTROWS('Fact_Control_Exceptions')
+
+Total Amount at Risk = 
+SUM('Fact_Control_Exceptions'[AmountAtRisk])
+
+Financial Exposure Rate % = 
+DIVIDE([Total Amount at Risk], [Total Disbursed Amount], 0)
+
+High Severity Exceptions Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[Severity] = "HIGH"
+)
+
+High Severity Amount at Risk = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[Severity] = "HIGH"
+)
+
+Medium Severity Amount at Risk = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[Severity] = "MEDIUM"
+)
+
+// --------------------------------------------------------------------
+// 3. Category-Specific Control Violations
+// --------------------------------------------------------------------
+
+// Duplicate Invoices (Exact, Near-Duplicate, Multiple Payments)
+Duplicate Invoice Value = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Duplicate Invoices"
+)
+
+Duplicate Invoice Exceptions Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Duplicate Invoices"
+)
+
+// Three-Way Matching (Quantity over-bill, Price variance, Missing GR, Non-PO)
+Three Way Match Variance Exposure = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Three-Way Matching"
+)
+
+Three Way Match Exceptions Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Three-Way Matching"
+)
+
+// Split Purchases (Evading $10,000 threshold within 72 hrs)
+Split Purchase Exposure = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Split Purchases"
+)
+
+Split Purchase Incidents Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Split Purchases"
+)
+
+// Vendor Anomalies & Conflict of Interest (Duplicate Bank, Employee Match, Inactive)
+Vendor Anomalies Exposure = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Vendor Anomalies"
+)
+
+Vendor Anomalies Exceptions Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Vendor Anomalies"
+)
+
+// Payment Anomalies (Ghost Payments, Overpayments, Premature Disbursed)
+Payment Anomalies Exposure = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Payment Anomalies"
+)
+
+Payment Anomalies Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Payment Anomalies"
+)
+
+// Approval Violations (Exceeding limit, Self-approval)
+Approval Violations Exposure = 
+CALCULATE(
+    SUM('Fact_Control_Exceptions'[AmountAtRisk]),
+    'Fact_Control_Exceptions'[ControlCategory] = "Approval Violations"
+)
+
+Approval Violations Count = 
+CALCULATE(
+    COUNTROWS('Fact_Control_Exceptions'),
+    'Fact_Control_Exceptions'[ControlCategory] = "Approval Violations"
+)
+
+// --------------------------------------------------------------------
+// 4. Reconciliation & Variance Measures
+// --------------------------------------------------------------------
+
+PO vs Invoice Discrepancy = 
+[Total Invoiced Spend] - [Total Procurement Spend]
+
+PO vs Invoice Discrepancy % = 
+DIVIDE([PO vs Invoice Discrepancy], [Total Procurement Spend], 0)
+
+Invoiced vs Paid Discrepancy = 
+[Total Disbursed Amount] - [Total Invoiced Spend]
+
+// --------------------------------------------------------------------
+// 5. Vendor Risk Scoring & Profiling
+// --------------------------------------------------------------------
+
+Vendor Risk Exposure % = 
+VAR DisbursedToVendor = [Total Disbursed Amount]
+RETURN
+DIVIDE([Total Amount at Risk], DisbursedToVendor, 0)
+
+Vendor Risk Badge = 
+SWITCH(
+    TRUE(),
+    [Total Amount at Risk] >= 50000 || [High Severity Exceptions Count] >= 2, "CRITICAL RISK",
+    [Total Amount at Risk] > 0, "MONITOR",
+    "COMPLIANT"
+)
+
+// --------------------------------------------------------------------
+// 6. Time Intelligence & Trend Measures
+// --------------------------------------------------------------------
+
+Amount at Risk MTD = 
+TOTALMTD([Total Amount at Risk], 'Dim_Date'[Date])
+
+Amount at Risk Prior Month = 
+CALCULATE(
+    [Total Amount at Risk],
+    DATEADD('Dim_Date'[Date], -1, MONTH)
+)
+
+MoM Risk Exposure Change $ = 
+[Total Amount at Risk] - [Amount at Risk Prior Month]
+
+MoM Risk Exposure Change % = 
+DIVIDE([MoM Risk Exposure Change $], [Amount at Risk Prior Month], 0)

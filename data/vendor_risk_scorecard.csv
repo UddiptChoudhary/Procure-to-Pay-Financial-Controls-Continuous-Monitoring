@@ -1,0 +1,21 @@
+vendor_id,vendor_name,vendor_status,total_exceptions,total_amount_at_risk,total_disbursed,risk_tier
+VND006,Enterprise Cyber Defense Partners,ACTIVE,4,283000.0,953830,CRITICAL
+VND009,Horizon Marketing & Media LLC,ACTIVE,2,272500.0,1001300,CRITICAL
+VND004,Starlight Office & Facilities Group,ACTIVE,4,233250.0,653950,CRITICAL
+VND007,Metropolitan Janitorial & Facilities,ACTIVE,1,227740.0,1211440,CRITICAL
+VND005,Precision Industrial Supply Co,ACTIVE,8,106400.0,822450,CRITICAL
+VND012,NexGen IT Hardware Distribution,ACTIVE,3,89100.0,859800,CRITICAL
+VND018,Dormant Industrial Corp,INACTIVE,1,78000.0,78000,CRITICAL
+VND002,Summit Cloud Infrastructure LLC,ACTIVE,2,76500.0,1377590,CRITICAL
+VND011,Allied Packaging Solutions,ACTIVE,4,49000.0,817200,CRITICAL
+VND017,Evergreen Management & Sourcing,ACTIVE,1,35000.0,35000,ELEVATED
+VND003,Global Freight & Logistics Corp,ACTIVE,1,19500.0,387000,ELEVATED
+VND001,Apex Tech Solutions Inc,ACTIVE,1,14500.0,272240,ELEVATED
+VND008,Vanguard Raw Materials Ltd,ACTIVE,1,4500.0,826600,ELEVATED
+VND010,Beacon Legal & Advisory Services,ACTIVE,0,,1063180,LOW_RISK
+VND013,Titan Heavy Machinery & Lift,ACTIVE,0,,666150,LOW_RISK
+VND014,AuditPro Advisory Partners,ACTIVE,0,,125150,LOW_RISK
+VND015,ComfortZone Ergonomic Interiors,ACTIVE,0,,833240,LOW_RISK
+VND016,Apex Strategic Consulting LLC,ACTIVE,0,,42000,LOW_RISK
+VND019,OmniSource Office Tech,ACTIVE,0,,129600,LOW_RISK
+VND020,Pinnacle Warehouse Equipment,ACTIVE,0,,393740,LOW_RISK

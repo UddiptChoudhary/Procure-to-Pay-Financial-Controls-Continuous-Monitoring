@@ -1,0 +1,9 @@
+{
+    "total_procurement_po_spend": 12698810,
+    "total_disbursements_paid": 12549460,
+    "total_control_exceptions": 34,
+    "total_financial_amount_at_risk": 1803230,
+    "duplicate_invoice_value_at_risk": 54250,
+    "risk_exposure_percentage": 14.37,
+    "generated_timestamp": "2026-11-26T17:07:57.992971"
+}

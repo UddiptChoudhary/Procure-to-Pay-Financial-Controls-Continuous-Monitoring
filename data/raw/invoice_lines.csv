@@ -1,0 +1,336 @@
+invoice_line_id,invoice_id,line_number,item_description,quantity_invoiced,unit_price,line_total,po_line_id
+INVL-7001,INV-3001,1,Commercial HVAC Air Filter Box,5,120.0,600.0,POL-5001
+INVL-7002,INV-3001,2,Industrial Grade Fasteners (Box 5000),30,420.0,12600.0,POL-5002
+INVL-7003,INV-3002,1,Dell Latitude 5540 Laptop,5,1250.0,6250.0,POL-5003
+INVL-7004,INV-3002,2,Ergonomic Mesh Task Chairs,15,450.0,6750.0,POL-5004
+INVL-7005,INV-3002,3,SOX Compliance Internal Audit Consulting,20,450.0,9000.0,POL-5005
+INVL-7006,INV-3003,1,Corrugated Packaging Boxes (Batch 1000),10,850.0,8500.0,POL-5006
+INVL-7007,INV-3004,1,Corrugated Packaging Boxes (Batch 1000),2,850.0,1700.0,POL-5007
+INVL-7008,INV-3004,2,Ergonomic Mesh Task Chairs,30,450.0,13500.0,POL-5008
+INVL-7009,INV-3004,3,Cisco Catalyst 9300 Switch,5,4200.0,21000.0,POL-5009
+INVL-7010,INV-3005,1,Corporate Office Janitorial Services,20,3500.0,70000.0,POL-5010
+INVL-7011,INV-3005,2,Cisco Catalyst 9300 Switch,30,4200.0,126000.0,POL-5011
+INVL-7012,INV-3005,3,Salesforce CRM Enterprise Seat (Annual),5,1800.0,9000.0,POL-5012
+INVL-7013,INV-3006,1,Ergonomic Mesh Task Chairs,20,450.0,9000.0,POL-5013
+INVL-7014,INV-3007,1,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5014
+INVL-7015,INV-3007,2,Corporate Office Janitorial Services,15,3500.0,52500.0,POL-5015
+INVL-7016,INV-3007,3,SOX Compliance Internal Audit Consulting,10,450.0,4500.0,POL-5016
+INVL-7017,INV-3008,1,External Legal Advisory Hours,15,650.0,9750.0,POL-5017
+INVL-7018,INV-3009,1,Forklift Maintenance & Battery Pack,15,2800.0,42000.0,POL-5018
+INVL-7019,INV-3009,2,Enterprise Cloud Hosting (Monthly),5,8500.0,42500.0,POL-5019
+INVL-7020,INV-3009,3,Industrial Pallet Racking Units,15,1600.0,24000.0,POL-5020
+INVL-7021,INV-3010,1,Dell Latitude 5540 Laptop,2,1250.0,2500.0,POL-5021
+INVL-7022,INV-3010,2,Forklift Maintenance & Battery Pack,2,2800.0,5600.0,POL-5022
+INVL-7023,INV-3010,3,Global Freight Logistics & Drayage,10,2200.0,22000.0,POL-5023
+INVL-7024,INV-3011,1,Industrial Grade Fasteners (Box 5000),10,420.0,4200.0,POL-5024
+INVL-7025,INV-3011,2,Salesforce CRM Enterprise Seat (Annual),20,1800.0,36000.0,POL-5025
+INVL-7026,INV-3012,1,Commercial HVAC Air Filter Box,2,120.0,240.0,POL-5026
+INVL-7027,INV-3013,1,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5027
+INVL-7028,INV-3014,1,SOX Compliance Internal Audit Consulting,2,450.0,900.0,POL-5028
+INVL-7029,INV-3014,2,Ergonomic Mesh Task Chairs,2,450.0,900.0,POL-5029
+INVL-7030,INV-3015,1,Ergonomic Mesh Task Chairs,5,450.0,2250.0,POL-5030
+INVL-7031,INV-3016,1,Enterprise Cloud Hosting (Monthly),2,8500.0,17000.0,POL-5031
+INVL-7032,INV-3016,2,Dell UltraSharp 27 Monitor,5,380.0,1900.0,POL-5032
+INVL-7033,INV-3016,3,Dell Latitude 5540 Laptop,5,1250.0,6250.0,POL-5033
+INVL-7034,INV-3017,1,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5034
+INVL-7035,INV-3017,2,Global Freight Logistics & Drayage,5,2200.0,11000.0,POL-5035
+INVL-7036,INV-3018,1,Dell UltraSharp 27 Monitor,20,380.0,7600.0,POL-5036
+INVL-7037,INV-3019,1,Dell UltraSharp 27 Monitor,30,380.0,11400.0,POL-5037
+INVL-7038,INV-3019,2,Cisco Catalyst 9300 Switch,20,4200.0,84000.0,POL-5038
+INVL-7039,INV-3019,3,SOX Compliance Internal Audit Consulting,20,450.0,9000.0,POL-5039
+INVL-7040,INV-3020,1,Dell Latitude 5540 Laptop,15,1250.0,18750.0,POL-5040
+INVL-7041,INV-3021,1,Commercial HVAC Air Filter Box,10,120.0,1200.0,POL-5041
+INVL-7042,INV-3022,1,Enterprise Cloud Hosting (Monthly),30,8500.0,255000.0,POL-5042
+INVL-7043,INV-3022,2,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5043
+INVL-7044,INV-3023,1,Dell UltraSharp 27 Monitor,30,380.0,11400.0,POL-5044
+INVL-7045,INV-3023,2,Cisco Catalyst 9300 Switch,15,4200.0,63000.0,POL-5045
+INVL-7046,INV-3024,1,Industrial Grade Fasteners (Box 5000),2,420.0,840.0,POL-5046
+INVL-7047,INV-3024,2,Dell Latitude 5540 Laptop,2,1250.0,2500.0,POL-5047
+INVL-7048,INV-3025,1,Ergonomic Mesh Task Chairs,30,450.0,13500.0,POL-5048
+INVL-7049,INV-3025,2,Commercial HVAC Air Filter Box,2,120.0,240.0,POL-5049
+INVL-7050,INV-3026,1,SOX Compliance Internal Audit Consulting,10,450.0,4500.0,POL-5050
+INVL-7051,INV-3026,2,Commercial HVAC Air Filter Box,5,120.0,600.0,POL-5051
+INVL-7052,INV-3027,1,Ergonomic Mesh Task Chairs,15,450.0,6750.0,POL-5052
+INVL-7053,INV-3028,1,Salesforce CRM Enterprise Seat (Annual),2,1800.0,3600.0,POL-5053
+INVL-7054,INV-3028,2,Corporate Office Janitorial Services,2,3500.0,7000.0,POL-5054
+INVL-7055,INV-3029,1,SOX Compliance Internal Audit Consulting,10,450.0,4500.0,POL-5055
+INVL-7056,INV-3029,2,Dell Latitude 5540 Laptop,15,1250.0,18750.0,POL-5056
+INVL-7057,INV-3029,3,Ergonomic Mesh Task Chairs,2,450.0,900.0,POL-5057
+INVL-7058,INV-3030,1,Ergonomic Mesh Task Chairs,15,450.0,6750.0,POL-5058
+INVL-7059,INV-3031,1,Forklift Maintenance & Battery Pack,15,2800.0,42000.0,POL-5059
+INVL-7060,INV-3031,2,Digital Ad Campaign Management Fee,30,7500.0,225000.0,POL-5060
+INVL-7061,INV-3031,3,Raw Sheet Metal - Aluminum 6061 (Ton),5,3100.0,15500.0,POL-5061
+INVL-7062,INV-3032,1,Cybersecurity SOC Monitoring (Monthly),2,12000.0,24000.0,POL-5062
+INVL-7063,INV-3033,1,Commercial HVAC Air Filter Box,30,120.0,3600.0,POL-5063
+INVL-7064,INV-3033,2,Cybersecurity SOC Monitoring (Monthly),30,12000.0,360000.0,POL-5064
+INVL-7065,INV-3034,1,Digital Ad Campaign Management Fee,30,7500.0,225000.0,POL-5065
+INVL-7066,INV-3035,1,Digital Ad Campaign Management Fee,5,7500.0,37500.0,POL-5066
+INVL-7067,INV-3035,2,Corporate Office Janitorial Services,30,3500.0,105000.0,POL-5067
+INVL-7068,INV-3036,1,Forklift Maintenance & Battery Pack,5,2800.0,14000.0,POL-5068
+INVL-7069,INV-3036,2,Cisco Catalyst 9300 Switch,5,4200.0,21000.0,POL-5069
+INVL-7070,INV-3037,1,SOX Compliance Internal Audit Consulting,15,450.0,6750.0,POL-5070
+INVL-7071,INV-3038,1,Industrial Grade Fasteners (Box 5000),5,420.0,2100.0,POL-5071
+INVL-7072,INV-3038,2,Commercial HVAC Air Filter Box,10,120.0,1200.0,POL-5072
+INVL-7073,INV-3038,3,Global Freight Logistics & Drayage,15,2200.0,33000.0,POL-5073
+INVL-7074,INV-3039,1,Dell Latitude 5540 Laptop,5,1250.0,6250.0,POL-5074
+INVL-7075,INV-3039,2,Cisco Catalyst 9300 Switch,15,4200.0,63000.0,POL-5075
+INVL-7076,INV-3039,3,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5076
+INVL-7077,INV-3040,1,Global Freight Logistics & Drayage,2,2200.0,4400.0,POL-5077
+INVL-7078,INV-3041,1,Dell Latitude 5540 Laptop,20,1250.0,25000.0,POL-5078
+INVL-7079,INV-3042,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5079
+INVL-7080,INV-3042,2,Salesforce CRM Enterprise Seat (Annual),20,1800.0,36000.0,POL-5080
+INVL-7081,INV-3043,1,Cisco Catalyst 9300 Switch,20,4200.0,84000.0,POL-5081
+INVL-7082,INV-3044,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5082
+INVL-7083,INV-3044,2,Cisco Catalyst 9300 Switch,30,4200.0,126000.0,POL-5083
+INVL-7084,INV-3045,1,Raw Sheet Metal - Aluminum 6061 (Ton),30,3100.0,93000.0,POL-5084
+INVL-7085,INV-3046,1,Corporate Office Janitorial Services,15,3500.0,52500.0,POL-5085
+INVL-7086,INV-3047,1,Corporate Office Janitorial Services,10,3500.0,35000.0,POL-5086
+INVL-7087,INV-3047,2,Forklift Maintenance & Battery Pack,20,2800.0,56000.0,POL-5087
+INVL-7088,INV-3048,1,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5088
+INVL-7089,INV-3049,1,Corrugated Packaging Boxes (Batch 1000),15,850.0,12750.0,POL-5089
+INVL-7090,INV-3049,2,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5090
+INVL-7091,INV-3049,3,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5091
+INVL-7092,INV-3050,1,Industrial Grade Fasteners (Box 5000),5,420.0,2100.0,POL-5092
+INVL-7093,INV-3050,2,Salesforce CRM Enterprise Seat (Annual),30,1800.0,54000.0,POL-5093
+INVL-7094,INV-3050,3,Ergonomic Mesh Task Chairs,15,450.0,6750.0,POL-5094
+INVL-7095,INV-3051,1,Industrial Grade Fasteners (Box 5000),2,420.0,840.0,POL-5095
+INVL-7096,INV-3051,2,Cybersecurity SOC Monitoring (Monthly),2,12000.0,24000.0,POL-5096
+INVL-7097,INV-3051,3,Corporate Office Janitorial Services,20,3500.0,70000.0,POL-5097
+INVL-7098,INV-3052,1,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5098
+INVL-7099,INV-3053,1,Industrial Pallet Racking Units,2,1600.0,3200.0,POL-5099
+INVL-7100,INV-3053,2,Cisco Catalyst 9300 Switch,20,4200.0,84000.0,POL-5100
+INVL-7101,INV-3053,3,Commercial HVAC Air Filter Box,15,120.0,1800.0,POL-5101
+INVL-7102,INV-3054,1,Ergonomic Mesh Task Chairs,5,450.0,2250.0,POL-5102
+INVL-7103,INV-3054,2,Corporate Office Janitorial Services,5,3500.0,17500.0,POL-5103
+INVL-7104,INV-3054,3,Cisco Catalyst 9300 Switch,5,4200.0,21000.0,POL-5104
+INVL-7105,INV-3055,1,Industrial Pallet Racking Units,30,1600.0,48000.0,POL-5105
+INVL-7106,INV-3055,2,Digital Ad Campaign Management Fee,5,7500.0,37500.0,POL-5106
+INVL-7107,INV-3055,3,Cisco Catalyst 9300 Switch,10,4200.0,42000.0,POL-5107
+INVL-7108,INV-3056,1,Industrial Pallet Racking Units,20,1600.0,32000.0,POL-5108
+INVL-7109,INV-3057,1,Industrial Grade Fasteners (Box 5000),2,420.0,840.0,POL-5109
+INVL-7110,INV-3057,2,Global Freight Logistics & Drayage,20,2200.0,44000.0,POL-5110
+INVL-7111,INV-3057,3,Digital Ad Campaign Management Fee,2,7500.0,15000.0,POL-5111
+INVL-7112,INV-3058,1,Raw Sheet Metal - Aluminum 6061 (Ton),10,3100.0,31000.0,POL-5112
+INVL-7113,INV-3058,2,Digital Ad Campaign Management Fee,5,7500.0,37500.0,POL-5113
+INVL-7114,INV-3059,1,SOX Compliance Internal Audit Consulting,10,450.0,4500.0,POL-5114
+INVL-7115,INV-3059,2,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5115
+INVL-7116,INV-3060,1,Industrial Grade Fasteners (Box 5000),15,420.0,6300.0,POL-5116
+INVL-7117,INV-3061,1,Industrial Grade Fasteners (Box 5000),10,420.0,4200.0,POL-5117
+INVL-7118,INV-3061,2,Cybersecurity SOC Monitoring (Monthly),15,12000.0,180000.0,POL-5118
+INVL-7119,INV-3062,1,Commercial HVAC Air Filter Box,2,120.0,240.0,POL-5119
+INVL-7120,INV-3063,1,Industrial Grade Fasteners (Box 5000),15,420.0,6300.0,POL-5120
+INVL-7121,INV-3063,2,Cybersecurity SOC Monitoring (Monthly),5,12000.0,60000.0,POL-5121
+INVL-7122,INV-3064,1,Industrial Pallet Racking Units,15,1600.0,24000.0,POL-5122
+INVL-7123,INV-3064,2,Global Freight Logistics & Drayage,20,2200.0,44000.0,POL-5123
+INVL-7124,INV-3064,3,Cybersecurity SOC Monitoring (Monthly),15,12000.0,180000.0,POL-5124
+INVL-7125,INV-3065,1,Forklift Maintenance & Battery Pack,30,2800.0,84000.0,POL-5125
+INVL-7126,INV-3066,1,Forklift Maintenance & Battery Pack,2,2800.0,5600.0,POL-5126
+INVL-7127,INV-3066,2,Enterprise Cloud Hosting (Monthly),20,8500.0,170000.0,POL-5127
+INVL-7128,INV-3066,3,Digital Ad Campaign Management Fee,15,7500.0,112500.0,POL-5128
+INVL-7129,INV-3067,1,Industrial Grade Fasteners (Box 5000),30,420.0,12600.0,POL-5129
+INVL-7130,INV-3067,2,External Legal Advisory Hours,30,650.0,19500.0,POL-5130
+INVL-7131,INV-3067,3,Forklift Maintenance & Battery Pack,15,2800.0,42000.0,POL-5131
+INVL-7132,INV-3068,1,Industrial Pallet Racking Units,10,1600.0,16000.0,POL-5132
+INVL-7133,INV-3068,2,Dell Latitude 5540 Laptop,2,1250.0,2500.0,POL-5133
+INVL-7134,INV-3068,3,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5134
+INVL-7135,INV-3069,1,Commercial HVAC Air Filter Box,20,120.0,2400.0,POL-5135
+INVL-7136,INV-3069,2,Global Freight Logistics & Drayage,5,2200.0,11000.0,POL-5136
+INVL-7137,INV-3070,1,Digital Ad Campaign Management Fee,10,7500.0,75000.0,POL-5137
+INVL-7138,INV-3071,1,External Legal Advisory Hours,20,650.0,13000.0,POL-5138
+INVL-7139,INV-3072,1,Global Freight Logistics & Drayage,20,2200.0,44000.0,POL-5139
+INVL-7140,INV-3072,2,Industrial Pallet Racking Units,10,1600.0,16000.0,POL-5140
+INVL-7141,INV-3072,3,Commercial HVAC Air Filter Box,5,120.0,600.0,POL-5141
+INVL-7142,INV-3073,1,Forklift Maintenance & Battery Pack,5,2800.0,14000.0,POL-5142
+INVL-7143,INV-3073,2,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5143
+INVL-7144,INV-3074,1,Cybersecurity SOC Monitoring (Monthly),5,12000.0,60000.0,POL-5144
+INVL-7145,INV-3075,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5145
+INVL-7146,INV-3075,2,Corporate Office Janitorial Services,15,3500.0,52500.0,POL-5146
+INVL-7147,INV-3076,1,Industrial Pallet Racking Units,2,1600.0,3200.0,POL-5147
+INVL-7148,INV-3076,2,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5148
+INVL-7149,INV-3077,1,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5149
+INVL-7150,INV-3077,2,SOX Compliance Internal Audit Consulting,30,450.0,13500.0,POL-5150
+INVL-7151,INV-3078,1,Digital Ad Campaign Management Fee,10,7500.0,75000.0,POL-5151
+INVL-7152,INV-3078,2,Commercial HVAC Air Filter Box,2,120.0,240.0,POL-5152
+INVL-7153,INV-3079,1,Ergonomic Mesh Task Chairs,10,450.0,4500.0,POL-5153
+INVL-7154,INV-3079,2,Dell Latitude 5540 Laptop,5,1250.0,6250.0,POL-5154
+INVL-7155,INV-3079,3,Dell UltraSharp 27 Monitor,5,380.0,1900.0,POL-5155
+INVL-7156,INV-3080,1,Industrial Grade Fasteners (Box 5000),10,420.0,4200.0,POL-5156
+INVL-7157,INV-3081,1,Dell UltraSharp 27 Monitor,30,380.0,11400.0,POL-5157
+INVL-7158,INV-3081,2,Cybersecurity SOC Monitoring (Monthly),15,12000.0,180000.0,POL-5158
+INVL-7159,INV-3082,1,Raw Sheet Metal - Aluminum 6061 (Ton),10,3100.0,31000.0,POL-5159
+INVL-7160,INV-3083,1,Cisco Catalyst 9300 Switch,10,4200.0,42000.0,POL-5160
+INVL-7161,INV-3083,2,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5161
+INVL-7162,INV-3084,1,Enterprise Cloud Hosting (Monthly),15,8500.0,127500.0,POL-5162
+INVL-7163,INV-3084,2,Ergonomic Mesh Task Chairs,5,450.0,2250.0,POL-5163
+INVL-7164,INV-3084,3,SOX Compliance Internal Audit Consulting,15,450.0,6750.0,POL-5164
+INVL-7165,INV-3085,1,Global Freight Logistics & Drayage,2,2200.0,4400.0,POL-5165
+INVL-7166,INV-3085,2,Cisco Catalyst 9300 Switch,2,4200.0,8400.0,POL-5166
+INVL-7167,INV-3085,3,Raw Sheet Metal - Aluminum 6061 (Ton),15,3100.0,46500.0,POL-5167
+INVL-7168,INV-3086,1,Industrial Pallet Racking Units,20,1600.0,32000.0,POL-5168
+INVL-7169,INV-3087,1,Enterprise Cloud Hosting (Monthly),20,8500.0,170000.0,POL-5169
+INVL-7170,INV-3087,2,Corporate Office Janitorial Services,5,3500.0,17500.0,POL-5170
+INVL-7171,INV-3088,1,Salesforce CRM Enterprise Seat (Annual),5,1800.0,9000.0,POL-5171
+INVL-7172,INV-3089,1,Digital Ad Campaign Management Fee,5,7500.0,37500.0,POL-5172
+INVL-7173,INV-3089,2,Forklift Maintenance & Battery Pack,10,2800.0,28000.0,POL-5173
+INVL-7174,INV-3090,1,SOX Compliance Internal Audit Consulting,20,450.0,9000.0,POL-5174
+INVL-7175,INV-3090,2,Global Freight Logistics & Drayage,15,2200.0,33000.0,POL-5175
+INVL-7176,INV-3091,1,Dell UltraSharp 27 Monitor,15,380.0,5700.0,POL-5176
+INVL-7177,INV-3091,2,Commercial HVAC Air Filter Box,20,120.0,2400.0,POL-5177
+INVL-7178,INV-3092,1,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5178
+INVL-7179,INV-3092,2,Salesforce CRM Enterprise Seat (Annual),15,1800.0,27000.0,POL-5179
+INVL-7180,INV-3093,1,SOX Compliance Internal Audit Consulting,30,450.0,13500.0,POL-5180
+INVL-7181,INV-3093,2,External Legal Advisory Hours,30,650.0,19500.0,POL-5181
+INVL-7182,INV-3094,1,Enterprise Cloud Hosting (Monthly),15,8500.0,127500.0,POL-5182
+INVL-7183,INV-3094,2,Commercial HVAC Air Filter Box,20,120.0,2400.0,POL-5183
+INVL-7184,INV-3095,1,Enterprise Cloud Hosting (Monthly),10,8500.0,85000.0,POL-5184
+INVL-7185,INV-3095,2,Raw Sheet Metal - Aluminum 6061 (Ton),10,3100.0,31000.0,POL-5185
+INVL-7186,INV-3095,3,Ergonomic Mesh Task Chairs,30,450.0,13500.0,POL-5186
+INVL-7187,INV-3096,1,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5187
+INVL-7188,INV-3096,2,Digital Ad Campaign Management Fee,20,7500.0,150000.0,POL-5188
+INVL-7189,INV-3096,3,Raw Sheet Metal - Aluminum 6061 (Ton),30,3100.0,93000.0,POL-5189
+INVL-7190,INV-3097,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5190
+INVL-7191,INV-3098,1,Raw Sheet Metal - Aluminum 6061 (Ton),15,3100.0,46500.0,POL-5191
+INVL-7192,INV-3099,1,Digital Ad Campaign Management Fee,2,7500.0,15000.0,POL-5192
+INVL-7193,INV-3100,1,Salesforce CRM Enterprise Seat (Annual),10,1800.0,18000.0,POL-5193
+INVL-7194,INV-3100,2,Corrugated Packaging Boxes (Batch 1000),15,850.0,12750.0,POL-5194
+INVL-7195,INV-3100,3,Raw Sheet Metal - Aluminum 6061 (Ton),15,3100.0,46500.0,POL-5195
+INVL-7196,INV-3101,1,Cybersecurity SOC Monitoring (Monthly),10,12000.0,120000.0,POL-5196
+INVL-7197,INV-3102,1,Raw Sheet Metal - Aluminum 6061 (Ton),20,3100.0,62000.0,POL-5197
+INVL-7198,INV-3102,2,Cisco Catalyst 9300 Switch,10,4200.0,42000.0,POL-5198
+INVL-7199,INV-3102,3,SOX Compliance Internal Audit Consulting,2,450.0,900.0,POL-5199
+INVL-7200,INV-3103,1,Raw Sheet Metal - Aluminum 6061 (Ton),20,3100.0,62000.0,POL-5200
+INVL-7201,INV-3104,1,Salesforce CRM Enterprise Seat (Annual),30,1800.0,54000.0,POL-5201
+INVL-7202,INV-3105,1,Commercial HVAC Air Filter Box,5,120.0,600.0,POL-5202
+INVL-7203,INV-3105,2,Industrial Pallet Racking Units,10,1600.0,16000.0,POL-5203
+INVL-7204,INV-3105,3,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5204
+INVL-7205,INV-3106,1,Global Freight Logistics & Drayage,30,2200.0,66000.0,POL-5205
+INVL-7206,INV-3106,2,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5206
+INVL-7207,INV-3106,3,Enterprise Cloud Hosting (Monthly),2,8500.0,17000.0,POL-5207
+INVL-7208,INV-3107,1,Dell UltraSharp 27 Monitor,20,380.0,7600.0,POL-5208
+INVL-7209,INV-3107,2,External Legal Advisory Hours,10,650.0,6500.0,POL-5209
+INVL-7210,INV-3108,1,Industrial Pallet Racking Units,15,1600.0,24000.0,POL-5210
+INVL-7211,INV-3109,1,Industrial Grade Fasteners (Box 5000),30,420.0,12600.0,POL-5211
+INVL-7212,INV-3110,1,Digital Ad Campaign Management Fee,2,7500.0,15000.0,POL-5212
+INVL-7213,INV-3110,2,Cisco Catalyst 9300 Switch,15,4200.0,63000.0,POL-5213
+INVL-7214,INV-3111,1,Salesforce CRM Enterprise Seat (Annual),20,1800.0,36000.0,POL-5214
+INVL-7215,INV-3111,2,Cisco Catalyst 9300 Switch,10,4200.0,42000.0,POL-5215
+INVL-7216,INV-3112,1,Dell Latitude 5540 Laptop,10,1250.0,12500.0,POL-5216
+INVL-7217,INV-3112,2,Corrugated Packaging Boxes (Batch 1000),5,850.0,4250.0,POL-5217
+INVL-7218,INV-3112,3,Cisco Catalyst 9300 Switch,30,4200.0,126000.0,POL-5218
+INVL-7219,INV-3113,1,Salesforce CRM Enterprise Seat (Annual),2,1800.0,3600.0,POL-5219
+INVL-7220,INV-3113,2,Cybersecurity SOC Monitoring (Monthly),30,12000.0,360000.0,POL-5220
+INVL-7221,INV-3114,1,Industrial Grade Fasteners (Box 5000),10,420.0,4200.0,POL-5221
+INVL-7222,INV-3114,2,Global Freight Logistics & Drayage,2,2200.0,4400.0,POL-5222
+INVL-7223,INV-3115,1,External Legal Advisory Hours,5,650.0,3250.0,POL-5223
+INVL-7224,INV-3115,2,Forklift Maintenance & Battery Pack,15,2800.0,42000.0,POL-5224
+INVL-7225,INV-3116,1,Enterprise Cloud Hosting (Monthly),10,8500.0,85000.0,POL-5225
+INVL-7226,INV-3116,2,Cisco Catalyst 9300 Switch,30,4200.0,126000.0,POL-5226
+INVL-7227,INV-3117,1,Corporate Office Janitorial Services,2,3500.0,7000.0,POL-5227
+INVL-7228,INV-3117,2,Dell UltraSharp 27 Monitor,30,380.0,11400.0,POL-5228
+INVL-7229,INV-3118,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5229
+INVL-7230,INV-3118,2,Industrial Grade Fasteners (Box 5000),2,420.0,840.0,POL-5230
+INVL-7231,INV-3118,3,External Legal Advisory Hours,20,650.0,13000.0,POL-5231
+INVL-7232,INV-3119,1,Corporate Office Janitorial Services,2,3500.0,7000.0,POL-5232
+INVL-7233,INV-3119,2,Commercial HVAC Air Filter Box,30,120.0,3600.0,POL-5233
+INVL-7234,INV-3119,3,Enterprise Cloud Hosting (Monthly),5,8500.0,42500.0,POL-5234
+INVL-7235,INV-3120,1,Cybersecurity SOC Monitoring (Monthly),2,12000.0,24000.0,POL-5235
+INVL-7236,INV-3121,1,Industrial Pallet Racking Units,30,1600.0,48000.0,POL-5236
+INVL-7237,INV-3121,2,Industrial Grade Fasteners (Box 5000),30,420.0,12600.0,POL-5237
+INVL-7238,INV-3121,3,Salesforce CRM Enterprise Seat (Annual),30,1800.0,54000.0,POL-5238
+INVL-7239,INV-3122,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5239
+INVL-7240,INV-3122,2,Digital Ad Campaign Management Fee,2,7500.0,15000.0,POL-5240
+INVL-7241,INV-3122,3,Cybersecurity SOC Monitoring (Monthly),2,12000.0,24000.0,POL-5241
+INVL-7242,INV-3123,1,Raw Sheet Metal - Aluminum 6061 (Ton),20,3100.0,62000.0,POL-5242
+INVL-7243,INV-3123,2,Corrugated Packaging Boxes (Batch 1000),30,850.0,25500.0,POL-5243
+INVL-7244,INV-3123,3,Cybersecurity SOC Monitoring (Monthly),20,12000.0,240000.0,POL-5244
+INVL-7245,INV-3124,1,Commercial HVAC Air Filter Box,2,120.0,240.0,POL-5245
+INVL-7246,INV-3124,2,Corrugated Packaging Boxes (Batch 1000),10,850.0,8500.0,POL-5246
+INVL-7247,INV-3124,3,Industrial Pallet Racking Units,5,1600.0,8000.0,POL-5247
+INVL-7248,INV-3125,1,Forklift Maintenance & Battery Pack,2,2800.0,5600.0,POL-5248
+INVL-7249,INV-3125,2,Dell UltraSharp 27 Monitor,2,380.0,760.0,POL-5249
+INVL-7250,INV-3125,3,Dell Latitude 5540 Laptop,30,1250.0,37500.0,POL-5250
+INVL-7251,INV-3126,1,External Legal Advisory Hours,2,650.0,1300.0,POL-5251
+INVL-7252,INV-3126,2,Industrial Pallet Racking Units,30,1600.0,48000.0,POL-5252
+INVL-7253,INV-3126,3,Digital Ad Campaign Management Fee,2,7500.0,15000.0,POL-5253
+INVL-7254,INV-3127,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5254
+INVL-7255,INV-3128,1,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5255
+INVL-7256,INV-3129,1,Raw Sheet Metal - Aluminum 6061 (Ton),15,3100.0,46500.0,POL-5256
+INVL-7257,INV-3129,2,Digital Ad Campaign Management Fee,10,7500.0,75000.0,POL-5257
+INVL-7258,INV-3130,1,Global Freight Logistics & Drayage,10,2200.0,22000.0,POL-5258
+INVL-7259,INV-3130,2,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5259
+INVL-7260,INV-3131,1,Industrial Grade Fasteners (Box 5000),20,420.0,8400.0,POL-5260
+INVL-7261,INV-3131,2,Ergonomic Mesh Task Chairs,10,450.0,4500.0,POL-5261
+INVL-7262,INV-3131,3,Corrugated Packaging Boxes (Batch 1000),2,850.0,1700.0,POL-5262
+INVL-7263,INV-3132,1,Ergonomic Mesh Task Chairs,20,450.0,9000.0,POL-5263
+INVL-7264,INV-3133,1,Cybersecurity SOC Monitoring (Monthly),5,12000.0,60000.0,POL-5264
+INVL-7265,INV-3133,2,Raw Sheet Metal - Aluminum 6061 (Ton),10,3100.0,31000.0,POL-5265
+INVL-7266,INV-3134,1,Industrial Pallet Racking Units,10,1600.0,16000.0,POL-5266
+INVL-7267,INV-3134,2,Global Freight Logistics & Drayage,10,2200.0,22000.0,POL-5267
+INVL-7268,INV-3134,3,Dell Latitude 5540 Laptop,30,1250.0,37500.0,POL-5268
+INVL-7269,INV-3135,1,External Legal Advisory Hours,2,650.0,1300.0,POL-5269
+INVL-7270,INV-3135,2,Cybersecurity SOC Monitoring (Monthly),20,12000.0,240000.0,POL-5270
+INVL-7271,INV-3135,3,Commercial HVAC Air Filter Box,30,120.0,3600.0,POL-5271
+INVL-7272,INV-3136,1,Global Freight Logistics & Drayage,20,2200.0,44000.0,POL-5272
+INVL-7273,INV-3136,2,Dell UltraSharp 27 Monitor,5,380.0,1900.0,POL-5273
+INVL-7274,INV-3136,3,Cybersecurity SOC Monitoring (Monthly),20,12000.0,240000.0,POL-5274
+INVL-7275,INV-3137,1,Ergonomic Mesh Task Chairs,10,450.0,4500.0,POL-5275
+INVL-7276,INV-3137,2,Commercial HVAC Air Filter Box,20,120.0,2400.0,POL-5276
+INVL-7277,INV-3138,1,Industrial Pallet Racking Units,20,1600.0,32000.0,POL-5277
+INVL-7278,INV-3138,2,Enterprise Cloud Hosting (Monthly),30,8500.0,255000.0,POL-5278
+INVL-7279,INV-3139,1,Corporate Office Janitorial Services,5,3500.0,17500.0,POL-5279
+INVL-7280,INV-3139,2,Global Freight Logistics & Drayage,5,2200.0,11000.0,POL-5280
+INVL-7281,INV-3140,1,Commercial HVAC Air Filter Box,15,120.0,1800.0,POL-5281
+INVL-7282,INV-3140,2,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5282
+INVL-7283,INV-3140,3,Enterprise Cloud Hosting (Monthly),30,8500.0,255000.0,POL-5283
+INVL-7284,INV-3141,1,Dell UltraSharp 27 Monitor,30,380.0,11400.0,POL-5284
+INVL-7285,INV-3141,2,Cisco Catalyst 9300 Switch,20,4200.0,84000.0,POL-5285
+INVL-7286,INV-3142,1,Dell UltraSharp 27 Monitor,10,380.0,3800.0,POL-5286
+INVL-7287,INV-3142,2,Dell Latitude 5540 Laptop,20,1250.0,25000.0,POL-5287
+INVL-7288,INV-3143,1,Enterprise Cloud Hosting (Monthly),10,8500.0,85000.0,POL-5288
+INVL-7289,INV-3144,1,Ergonomic Mesh Task Chairs,15,450.0,6750.0,POL-5289
+INVL-7290,INV-3144,2,Salesforce CRM Enterprise Seat (Annual),20,1800.0,36000.0,POL-5290
+INVL-7291,INV-3144,3,External Legal Advisory Hours,10,650.0,6500.0,POL-5291
+INVL-7292,INV-3145,1,Corporate Office Janitorial Services,10,3500.0,35000.0,POL-5292
+INVL-7293,INV-3145,2,Forklift Maintenance & Battery Pack,20,2800.0,56000.0,POL-5293
+INVL-7294,INV-3146,1,External Legal Advisory Hours,30,650.0,19500.0,POL-5294
+INVL-7295,INV-3147,1,Cybersecurity SOC Monitoring (Monthly),30,12000.0,360000.0,POL-5295
+INVL-7296,INV-3147,2,Digital Ad Campaign Management Fee,20,7500.0,150000.0,POL-5296
+INVL-7297,INV-3148,1,Cisco Catalyst 9300 Switch,2,4200.0,8400.0,POL-5297
+INVL-7298,INV-3148,2,Enterprise Cloud Hosting (Monthly),20,8500.0,170000.0,POL-5298
+INVL-7299,INV-3149,1,Digital Ad Campaign Management Fee,5,7500.0,37500.0,POL-5299
+INVL-7300,INV-3149,2,Dell UltraSharp 27 Monitor,20,380.0,7600.0,POL-5300
+INVL-7301,INV-3149,3,Industrial Grade Fasteners (Box 5000),15,420.0,6300.0,POL-5301
+INVL-7302,INV-3150,1,Corrugated Packaging Boxes (Batch 1000),20,850.0,17000.0,POL-5302
+INVL-7303,INV-3150,2,Cisco Catalyst 9300 Switch,2,4200.0,8400.0,POL-5303
+INVL-7304,INV-3151,1,External Legal Advisory Hours,2,650.0,1300.0,POL-5304
+INVL-7305,INV-3151,2,Industrial Grade Fasteners (Box 5000),30,420.0,12600.0,POL-5305
+INVL-7306,INV-3152,1,Industrial Pallet Racking Units,15,1600.0,24000.0,POL-5306
+INVL-7307,INV-3153,1,Corporate Office Janitorial Services,5,3500.0,17500.0,POL-5307
+INVL-7308,INV-3154,1,Dell UltraSharp 27 Monitor,5,380.0,1900.0,POL-5308
+INVL-7309,INV-3154,2,Digital Ad Campaign Management Fee,30,7500.0,225000.0,POL-5309
+INVL-7310,INV-3154,3,Industrial Grade Fasteners (Box 5000),2,420.0,840.0,POL-5310
+INVL-7311,INV-3155,1,Cybersecurity SOC Monitoring (Monthly),5,12000.0,60000.0,POL-5311
+INVL-7312,INV-3155,2,Raw Sheet Metal - Aluminum 6061 (Ton),15,3100.0,46500.0,POL-5312
+INVL-7313,INV-3156,1,SOX Compliance Internal Audit Consulting,5,450.0,2250.0,POL-5313
+INVL-7314,INV-3156,2,Industrial Grade Fasteners (Box 5000),10,420.0,4200.0,POL-5314
+INVL-7315,INV-3157,1,SOX Compliance Internal Audit Consulting,15,450.0,6750.0,POL-5315
+INVL-7316,INV-3157,2,Industrial Grade Fasteners (Box 5000),5,420.0,2100.0,POL-5316
+INVL-7317,INV-3157,3,Cybersecurity SOC Monitoring (Monthly),10,12000.0,120000.0,POL-5317
+INVL-7318,INV-3158,1,Dell UltraSharp 27 Monitor,20,380.0,7600.0,POL-5318
+INVL-7319,INV-3158,2,Cisco Catalyst 9300 Switch,30,4200.0,126000.0,POL-5319
+INVL-7320,INV-3158,3,Ergonomic Mesh Task Chairs,30,450.0,13500.0,POL-5320
+INVL-7321,INV-3159,1,Ergonomic Mesh Task Chairs,20,450.0,9000.0,POL-5321
+INVL-7322,INV-3159,2,External Legal Advisory Hours,10,650.0,6500.0,POL-5322
+INVL-7323,INV-3159,3,Commercial HVAC Air Filter Box,10,120.0,1200.0,POL-5323
+INVL-7324,INV-3160,1,Corrugated Packaging Boxes (Batch 1000),10,850.0,8500.0,POL-5324
+INVL-7325,INV-3161,1,Enterprise Cloud Hosting (Monthly),1,14500.0,14500.0,POL-5325
+INVL-7326,INV-3162,1,Enterprise Cloud Hosting (Monthly),1,14500.0,14500.0,POL-5325
+INVL-7327,INV-3163,1,Corporate Office Janitorial Services,2.5,3500.0,8750.0,POL-5326
+INVL-7328,INV-3164,1,Corporate Office Janitorial Services,2.5,3500.0,8750.0,POL-5326
+INVL-7329,INV-3166,1,Dell Latitude 5540 Laptop,50,1250.0,62500.0,POL-5327
+INVL-7330,INV-3167,1,Dell UltraSharp 27 Monitor,20,460.0,9200.0,POL-5328
+INVL-7331,INV-3168,1,Industrial Pallet Racking Units,10,1600.0,16000.0,POL-5329
+INVL-7332,INV-3169,1,Uncontracted Media Marketing Consulting,1,24500.0,24500.0,
+INVL-7333,INV-3170,1,Industrial Fasteners,22,420.0,9600.0,POL-5330
+INVL-7334,INV-3171,1,Industrial Fasteners,21,420.0,9200.0,POL-5331
+INVL-7335,INV-3172,1,Industrial Fasteners,21,420.0,9200.0,POL-5332

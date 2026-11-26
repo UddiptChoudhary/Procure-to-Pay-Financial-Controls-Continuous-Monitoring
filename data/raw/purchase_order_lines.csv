@@ -1,0 +1,344 @@
+po_line_id,po_id,line_number,item_description,category,quantity_ordered,unit_price,line_total
+POL-5001,PO-1001,1,Commercial HVAC Air Filter Box,Facilities,5,120.0,600.0
+POL-5002,PO-1001,2,Industrial Grade Fasteners (Box 5000),Raw Materials,30,420.0,12600.0
+POL-5003,PO-1002,1,Dell Latitude 5540 Laptop,IT Hardware,5,1250.0,6250.0
+POL-5004,PO-1002,2,Ergonomic Mesh Task Chairs,Facilities,15,450.0,6750.0
+POL-5005,PO-1002,3,SOX Compliance Internal Audit Consulting,Professional Services,20,450.0,9000.0
+POL-5006,PO-1003,1,Corrugated Packaging Boxes (Batch 1000),Operations,10,850.0,8500.0
+POL-5007,PO-1004,1,Corrugated Packaging Boxes (Batch 1000),Operations,2,850.0,1700.0
+POL-5008,PO-1004,2,Ergonomic Mesh Task Chairs,Facilities,30,450.0,13500.0
+POL-5009,PO-1004,3,Cisco Catalyst 9300 Switch,IT Hardware,5,4200.0,21000.0
+POL-5010,PO-1005,1,Corporate Office Janitorial Services,Facilities,20,3500.0,70000.0
+POL-5011,PO-1005,2,Cisco Catalyst 9300 Switch,IT Hardware,30,4200.0,126000.0
+POL-5012,PO-1005,3,Salesforce CRM Enterprise Seat (Annual),Software Licenses,5,1800.0,9000.0
+POL-5013,PO-1006,1,Ergonomic Mesh Task Chairs,Facilities,20,450.0,9000.0
+POL-5014,PO-1007,1,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5015,PO-1007,2,Corporate Office Janitorial Services,Facilities,15,3500.0,52500.0
+POL-5016,PO-1007,3,SOX Compliance Internal Audit Consulting,Professional Services,10,450.0,4500.0
+POL-5017,PO-1008,1,External Legal Advisory Hours,Professional Services,15,650.0,9750.0
+POL-5018,PO-1009,1,Forklift Maintenance & Battery Pack,Operations,15,2800.0,42000.0
+POL-5019,PO-1009,2,Enterprise Cloud Hosting (Monthly),Software Licenses,5,8500.0,42500.0
+POL-5020,PO-1009,3,Industrial Pallet Racking Units,Operations,15,1600.0,24000.0
+POL-5021,PO-1010,1,Dell Latitude 5540 Laptop,IT Hardware,2,1250.0,2500.0
+POL-5022,PO-1010,2,Forklift Maintenance & Battery Pack,Operations,2,2800.0,5600.0
+POL-5023,PO-1010,3,Global Freight Logistics & Drayage,Logistics,10,2200.0,22000.0
+POL-5024,PO-1011,1,Industrial Grade Fasteners (Box 5000),Raw Materials,10,420.0,4200.0
+POL-5025,PO-1011,2,Salesforce CRM Enterprise Seat (Annual),Software Licenses,20,1800.0,36000.0
+POL-5026,PO-1012,1,Commercial HVAC Air Filter Box,Facilities,2,120.0,240.0
+POL-5027,PO-1013,1,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5028,PO-1014,1,SOX Compliance Internal Audit Consulting,Professional Services,2,450.0,900.0
+POL-5029,PO-1014,2,Ergonomic Mesh Task Chairs,Facilities,2,450.0,900.0
+POL-5030,PO-1015,1,Ergonomic Mesh Task Chairs,Facilities,5,450.0,2250.0
+POL-5031,PO-1016,1,Enterprise Cloud Hosting (Monthly),Software Licenses,2,8500.0,17000.0
+POL-5032,PO-1016,2,Dell UltraSharp 27 Monitor,IT Hardware,5,380.0,1900.0
+POL-5033,PO-1016,3,Dell Latitude 5540 Laptop,IT Hardware,5,1250.0,6250.0
+POL-5034,PO-1017,1,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5035,PO-1017,2,Global Freight Logistics & Drayage,Logistics,5,2200.0,11000.0
+POL-5036,PO-1018,1,Dell UltraSharp 27 Monitor,IT Hardware,20,380.0,7600.0
+POL-5037,PO-1019,1,Dell UltraSharp 27 Monitor,IT Hardware,30,380.0,11400.0
+POL-5038,PO-1019,2,Cisco Catalyst 9300 Switch,IT Hardware,20,4200.0,84000.0
+POL-5039,PO-1019,3,SOX Compliance Internal Audit Consulting,Professional Services,20,450.0,9000.0
+POL-5040,PO-1020,1,Dell Latitude 5540 Laptop,IT Hardware,15,1250.0,18750.0
+POL-5041,PO-1021,1,Commercial HVAC Air Filter Box,Facilities,10,120.0,1200.0
+POL-5042,PO-1022,1,Enterprise Cloud Hosting (Monthly),Software Licenses,30,8500.0,255000.0
+POL-5043,PO-1022,2,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5044,PO-1023,1,Dell UltraSharp 27 Monitor,IT Hardware,30,380.0,11400.0
+POL-5045,PO-1023,2,Cisco Catalyst 9300 Switch,IT Hardware,15,4200.0,63000.0
+POL-5046,PO-1024,1,Industrial Grade Fasteners (Box 5000),Raw Materials,2,420.0,840.0
+POL-5047,PO-1024,2,Dell Latitude 5540 Laptop,IT Hardware,2,1250.0,2500.0
+POL-5048,PO-1025,1,Ergonomic Mesh Task Chairs,Facilities,30,450.0,13500.0
+POL-5049,PO-1025,2,Commercial HVAC Air Filter Box,Facilities,2,120.0,240.0
+POL-5050,PO-1026,1,SOX Compliance Internal Audit Consulting,Professional Services,10,450.0,4500.0
+POL-5051,PO-1026,2,Commercial HVAC Air Filter Box,Facilities,5,120.0,600.0
+POL-5052,PO-1027,1,Ergonomic Mesh Task Chairs,Facilities,15,450.0,6750.0
+POL-5053,PO-1028,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,2,1800.0,3600.0
+POL-5054,PO-1028,2,Corporate Office Janitorial Services,Facilities,2,3500.0,7000.0
+POL-5055,PO-1029,1,SOX Compliance Internal Audit Consulting,Professional Services,10,450.0,4500.0
+POL-5056,PO-1029,2,Dell Latitude 5540 Laptop,IT Hardware,15,1250.0,18750.0
+POL-5057,PO-1029,3,Ergonomic Mesh Task Chairs,Facilities,2,450.0,900.0
+POL-5058,PO-1030,1,Ergonomic Mesh Task Chairs,Facilities,15,450.0,6750.0
+POL-5059,PO-1031,1,Forklift Maintenance & Battery Pack,Operations,15,2800.0,42000.0
+POL-5060,PO-1031,2,Digital Ad Campaign Management Fee,Corporate Marketing,30,7500.0,225000.0
+POL-5061,PO-1031,3,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,5,3100.0,15500.0
+POL-5062,PO-1032,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,2,12000.0,24000.0
+POL-5063,PO-1033,1,Commercial HVAC Air Filter Box,Facilities,30,120.0,3600.0
+POL-5064,PO-1033,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,30,12000.0,360000.0
+POL-5065,PO-1034,1,Digital Ad Campaign Management Fee,Corporate Marketing,30,7500.0,225000.0
+POL-5066,PO-1035,1,Digital Ad Campaign Management Fee,Corporate Marketing,5,7500.0,37500.0
+POL-5067,PO-1035,2,Corporate Office Janitorial Services,Facilities,30,3500.0,105000.0
+POL-5068,PO-1036,1,Forklift Maintenance & Battery Pack,Operations,5,2800.0,14000.0
+POL-5069,PO-1036,2,Cisco Catalyst 9300 Switch,IT Hardware,5,4200.0,21000.0
+POL-5070,PO-1037,1,SOX Compliance Internal Audit Consulting,Professional Services,15,450.0,6750.0
+POL-5071,PO-1038,1,Industrial Grade Fasteners (Box 5000),Raw Materials,5,420.0,2100.0
+POL-5072,PO-1038,2,Commercial HVAC Air Filter Box,Facilities,10,120.0,1200.0
+POL-5073,PO-1038,3,Global Freight Logistics & Drayage,Logistics,15,2200.0,33000.0
+POL-5074,PO-1039,1,Dell Latitude 5540 Laptop,IT Hardware,5,1250.0,6250.0
+POL-5075,PO-1039,2,Cisco Catalyst 9300 Switch,IT Hardware,15,4200.0,63000.0
+POL-5076,PO-1039,3,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5077,PO-1040,1,Global Freight Logistics & Drayage,Logistics,2,2200.0,4400.0
+POL-5078,PO-1041,1,Dell Latitude 5540 Laptop,IT Hardware,20,1250.0,25000.0
+POL-5079,PO-1042,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5080,PO-1042,2,Salesforce CRM Enterprise Seat (Annual),Software Licenses,20,1800.0,36000.0
+POL-5081,PO-1043,1,Cisco Catalyst 9300 Switch,IT Hardware,20,4200.0,84000.0
+POL-5082,PO-1044,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5083,PO-1044,2,Cisco Catalyst 9300 Switch,IT Hardware,30,4200.0,126000.0
+POL-5084,PO-1045,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,30,3100.0,93000.0
+POL-5085,PO-1046,1,Corporate Office Janitorial Services,Facilities,15,3500.0,52500.0
+POL-5086,PO-1047,1,Corporate Office Janitorial Services,Facilities,10,3500.0,35000.0
+POL-5087,PO-1047,2,Forklift Maintenance & Battery Pack,Operations,20,2800.0,56000.0
+POL-5088,PO-1048,1,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5089,PO-1049,1,Corrugated Packaging Boxes (Batch 1000),Operations,15,850.0,12750.0
+POL-5090,PO-1049,2,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5091,PO-1049,3,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5092,PO-1050,1,Industrial Grade Fasteners (Box 5000),Raw Materials,5,420.0,2100.0
+POL-5093,PO-1050,2,Salesforce CRM Enterprise Seat (Annual),Software Licenses,30,1800.0,54000.0
+POL-5094,PO-1050,3,Ergonomic Mesh Task Chairs,Facilities,15,450.0,6750.0
+POL-5095,PO-1051,1,Industrial Grade Fasteners (Box 5000),Raw Materials,2,420.0,840.0
+POL-5096,PO-1051,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,2,12000.0,24000.0
+POL-5097,PO-1051,3,Corporate Office Janitorial Services,Facilities,20,3500.0,70000.0
+POL-5098,PO-1052,1,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5099,PO-1053,1,Industrial Pallet Racking Units,Operations,2,1600.0,3200.0
+POL-5100,PO-1053,2,Cisco Catalyst 9300 Switch,IT Hardware,20,4200.0,84000.0
+POL-5101,PO-1053,3,Commercial HVAC Air Filter Box,Facilities,15,120.0,1800.0
+POL-5102,PO-1054,1,Ergonomic Mesh Task Chairs,Facilities,5,450.0,2250.0
+POL-5103,PO-1054,2,Corporate Office Janitorial Services,Facilities,5,3500.0,17500.0
+POL-5104,PO-1054,3,Cisco Catalyst 9300 Switch,IT Hardware,5,4200.0,21000.0
+POL-5105,PO-1055,1,Industrial Pallet Racking Units,Operations,30,1600.0,48000.0
+POL-5106,PO-1055,2,Digital Ad Campaign Management Fee,Corporate Marketing,5,7500.0,37500.0
+POL-5107,PO-1055,3,Cisco Catalyst 9300 Switch,IT Hardware,10,4200.0,42000.0
+POL-5108,PO-1056,1,Industrial Pallet Racking Units,Operations,20,1600.0,32000.0
+POL-5109,PO-1057,1,Industrial Grade Fasteners (Box 5000),Raw Materials,2,420.0,840.0
+POL-5110,PO-1057,2,Global Freight Logistics & Drayage,Logistics,20,2200.0,44000.0
+POL-5111,PO-1057,3,Digital Ad Campaign Management Fee,Corporate Marketing,2,7500.0,15000.0
+POL-5112,PO-1058,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,10,3100.0,31000.0
+POL-5113,PO-1058,2,Digital Ad Campaign Management Fee,Corporate Marketing,5,7500.0,37500.0
+POL-5114,PO-1059,1,SOX Compliance Internal Audit Consulting,Professional Services,10,450.0,4500.0
+POL-5115,PO-1059,2,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5116,PO-1060,1,Industrial Grade Fasteners (Box 5000),Raw Materials,15,420.0,6300.0
+POL-5117,PO-1061,1,Industrial Grade Fasteners (Box 5000),Raw Materials,10,420.0,4200.0
+POL-5118,PO-1061,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,15,12000.0,180000.0
+POL-5119,PO-1062,1,Commercial HVAC Air Filter Box,Facilities,2,120.0,240.0
+POL-5120,PO-1063,1,Industrial Grade Fasteners (Box 5000),Raw Materials,15,420.0,6300.0
+POL-5121,PO-1063,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,5,12000.0,60000.0
+POL-5122,PO-1064,1,Industrial Pallet Racking Units,Operations,15,1600.0,24000.0
+POL-5123,PO-1064,2,Global Freight Logistics & Drayage,Logistics,20,2200.0,44000.0
+POL-5124,PO-1064,3,Cybersecurity SOC Monitoring (Monthly),Software Licenses,15,12000.0,180000.0
+POL-5125,PO-1065,1,Forklift Maintenance & Battery Pack,Operations,30,2800.0,84000.0
+POL-5126,PO-1066,1,Forklift Maintenance & Battery Pack,Operations,2,2800.0,5600.0
+POL-5127,PO-1066,2,Enterprise Cloud Hosting (Monthly),Software Licenses,20,8500.0,170000.0
+POL-5128,PO-1066,3,Digital Ad Campaign Management Fee,Corporate Marketing,15,7500.0,112500.0
+POL-5129,PO-1067,1,Industrial Grade Fasteners (Box 5000),Raw Materials,30,420.0,12600.0
+POL-5130,PO-1067,2,External Legal Advisory Hours,Professional Services,30,650.0,19500.0
+POL-5131,PO-1067,3,Forklift Maintenance & Battery Pack,Operations,15,2800.0,42000.0
+POL-5132,PO-1068,1,Industrial Pallet Racking Units,Operations,10,1600.0,16000.0
+POL-5133,PO-1068,2,Dell Latitude 5540 Laptop,IT Hardware,2,1250.0,2500.0
+POL-5134,PO-1068,3,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5135,PO-1069,1,Commercial HVAC Air Filter Box,Facilities,20,120.0,2400.0
+POL-5136,PO-1069,2,Global Freight Logistics & Drayage,Logistics,5,2200.0,11000.0
+POL-5137,PO-1070,1,Digital Ad Campaign Management Fee,Corporate Marketing,10,7500.0,75000.0
+POL-5138,PO-1071,1,External Legal Advisory Hours,Professional Services,20,650.0,13000.0
+POL-5139,PO-1072,1,Global Freight Logistics & Drayage,Logistics,20,2200.0,44000.0
+POL-5140,PO-1072,2,Industrial Pallet Racking Units,Operations,10,1600.0,16000.0
+POL-5141,PO-1072,3,Commercial HVAC Air Filter Box,Facilities,5,120.0,600.0
+POL-5142,PO-1073,1,Forklift Maintenance & Battery Pack,Operations,5,2800.0,14000.0
+POL-5143,PO-1073,2,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5144,PO-1074,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,5,12000.0,60000.0
+POL-5145,PO-1075,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5146,PO-1075,2,Corporate Office Janitorial Services,Facilities,15,3500.0,52500.0
+POL-5147,PO-1076,1,Industrial Pallet Racking Units,Operations,2,1600.0,3200.0
+POL-5148,PO-1076,2,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5149,PO-1077,1,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5150,PO-1077,2,SOX Compliance Internal Audit Consulting,Professional Services,30,450.0,13500.0
+POL-5151,PO-1078,1,Digital Ad Campaign Management Fee,Corporate Marketing,10,7500.0,75000.0
+POL-5152,PO-1078,2,Commercial HVAC Air Filter Box,Facilities,2,120.0,240.0
+POL-5153,PO-1079,1,Ergonomic Mesh Task Chairs,Facilities,10,450.0,4500.0
+POL-5154,PO-1079,2,Dell Latitude 5540 Laptop,IT Hardware,5,1250.0,6250.0
+POL-5155,PO-1079,3,Dell UltraSharp 27 Monitor,IT Hardware,5,380.0,1900.0
+POL-5156,PO-1080,1,Industrial Grade Fasteners (Box 5000),Raw Materials,10,420.0,4200.0
+POL-5157,PO-1081,1,Dell UltraSharp 27 Monitor,IT Hardware,30,380.0,11400.0
+POL-5158,PO-1081,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,15,12000.0,180000.0
+POL-5159,PO-1082,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,10,3100.0,31000.0
+POL-5160,PO-1083,1,Cisco Catalyst 9300 Switch,IT Hardware,10,4200.0,42000.0
+POL-5161,PO-1083,2,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5162,PO-1084,1,Enterprise Cloud Hosting (Monthly),Software Licenses,15,8500.0,127500.0
+POL-5163,PO-1084,2,Ergonomic Mesh Task Chairs,Facilities,5,450.0,2250.0
+POL-5164,PO-1084,3,SOX Compliance Internal Audit Consulting,Professional Services,15,450.0,6750.0
+POL-5165,PO-1085,1,Global Freight Logistics & Drayage,Logistics,2,2200.0,4400.0
+POL-5166,PO-1085,2,Cisco Catalyst 9300 Switch,IT Hardware,2,4200.0,8400.0
+POL-5167,PO-1085,3,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,15,3100.0,46500.0
+POL-5168,PO-1086,1,Industrial Pallet Racking Units,Operations,20,1600.0,32000.0
+POL-5169,PO-1087,1,Enterprise Cloud Hosting (Monthly),Software Licenses,20,8500.0,170000.0
+POL-5170,PO-1087,2,Corporate Office Janitorial Services,Facilities,5,3500.0,17500.0
+POL-5171,PO-1088,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,5,1800.0,9000.0
+POL-5172,PO-1089,1,Digital Ad Campaign Management Fee,Corporate Marketing,5,7500.0,37500.0
+POL-5173,PO-1089,2,Forklift Maintenance & Battery Pack,Operations,10,2800.0,28000.0
+POL-5174,PO-1090,1,SOX Compliance Internal Audit Consulting,Professional Services,20,450.0,9000.0
+POL-5175,PO-1090,2,Global Freight Logistics & Drayage,Logistics,15,2200.0,33000.0
+POL-5176,PO-1091,1,Dell UltraSharp 27 Monitor,IT Hardware,15,380.0,5700.0
+POL-5177,PO-1091,2,Commercial HVAC Air Filter Box,Facilities,20,120.0,2400.0
+POL-5178,PO-1092,1,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5179,PO-1092,2,Salesforce CRM Enterprise Seat (Annual),Software Licenses,15,1800.0,27000.0
+POL-5180,PO-1093,1,SOX Compliance Internal Audit Consulting,Professional Services,30,450.0,13500.0
+POL-5181,PO-1093,2,External Legal Advisory Hours,Professional Services,30,650.0,19500.0
+POL-5182,PO-1094,1,Enterprise Cloud Hosting (Monthly),Software Licenses,15,8500.0,127500.0
+POL-5183,PO-1094,2,Commercial HVAC Air Filter Box,Facilities,20,120.0,2400.0
+POL-5184,PO-1095,1,Enterprise Cloud Hosting (Monthly),Software Licenses,10,8500.0,85000.0
+POL-5185,PO-1095,2,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,10,3100.0,31000.0
+POL-5186,PO-1095,3,Ergonomic Mesh Task Chairs,Facilities,30,450.0,13500.0
+POL-5187,PO-1096,1,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5188,PO-1096,2,Digital Ad Campaign Management Fee,Corporate Marketing,20,7500.0,150000.0
+POL-5189,PO-1096,3,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,30,3100.0,93000.0
+POL-5190,PO-1097,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5191,PO-1098,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,15,3100.0,46500.0
+POL-5192,PO-1099,1,Digital Ad Campaign Management Fee,Corporate Marketing,2,7500.0,15000.0
+POL-5193,PO-1100,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,10,1800.0,18000.0
+POL-5194,PO-1100,2,Corrugated Packaging Boxes (Batch 1000),Operations,15,850.0,12750.0
+POL-5195,PO-1100,3,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,15,3100.0,46500.0
+POL-5196,PO-1101,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,10,12000.0,120000.0
+POL-5197,PO-1102,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,20,3100.0,62000.0
+POL-5198,PO-1102,2,Cisco Catalyst 9300 Switch,IT Hardware,10,4200.0,42000.0
+POL-5199,PO-1102,3,SOX Compliance Internal Audit Consulting,Professional Services,2,450.0,900.0
+POL-5200,PO-1103,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,20,3100.0,62000.0
+POL-5201,PO-1104,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,30,1800.0,54000.0
+POL-5202,PO-1105,1,Commercial HVAC Air Filter Box,Facilities,5,120.0,600.0
+POL-5203,PO-1105,2,Industrial Pallet Racking Units,Operations,10,1600.0,16000.0
+POL-5204,PO-1105,3,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5205,PO-1106,1,Global Freight Logistics & Drayage,Logistics,30,2200.0,66000.0
+POL-5206,PO-1106,2,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5207,PO-1106,3,Enterprise Cloud Hosting (Monthly),Software Licenses,2,8500.0,17000.0
+POL-5208,PO-1107,1,Dell UltraSharp 27 Monitor,IT Hardware,20,380.0,7600.0
+POL-5209,PO-1107,2,External Legal Advisory Hours,Professional Services,10,650.0,6500.0
+POL-5210,PO-1108,1,Industrial Pallet Racking Units,Operations,15,1600.0,24000.0
+POL-5211,PO-1109,1,Industrial Grade Fasteners (Box 5000),Raw Materials,30,420.0,12600.0
+POL-5212,PO-1110,1,Digital Ad Campaign Management Fee,Corporate Marketing,2,7500.0,15000.0
+POL-5213,PO-1110,2,Cisco Catalyst 9300 Switch,IT Hardware,15,4200.0,63000.0
+POL-5214,PO-1111,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,20,1800.0,36000.0
+POL-5215,PO-1111,2,Cisco Catalyst 9300 Switch,IT Hardware,10,4200.0,42000.0
+POL-5216,PO-1112,1,Dell Latitude 5540 Laptop,IT Hardware,10,1250.0,12500.0
+POL-5217,PO-1112,2,Corrugated Packaging Boxes (Batch 1000),Operations,5,850.0,4250.0
+POL-5218,PO-1112,3,Cisco Catalyst 9300 Switch,IT Hardware,30,4200.0,126000.0
+POL-5219,PO-1113,1,Salesforce CRM Enterprise Seat (Annual),Software Licenses,2,1800.0,3600.0
+POL-5220,PO-1113,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,30,12000.0,360000.0
+POL-5221,PO-1114,1,Industrial Grade Fasteners (Box 5000),Raw Materials,10,420.0,4200.0
+POL-5222,PO-1114,2,Global Freight Logistics & Drayage,Logistics,2,2200.0,4400.0
+POL-5223,PO-1115,1,External Legal Advisory Hours,Professional Services,5,650.0,3250.0
+POL-5224,PO-1115,2,Forklift Maintenance & Battery Pack,Operations,15,2800.0,42000.0
+POL-5225,PO-1116,1,Enterprise Cloud Hosting (Monthly),Software Licenses,10,8500.0,85000.0
+POL-5226,PO-1116,2,Cisco Catalyst 9300 Switch,IT Hardware,30,4200.0,126000.0
+POL-5227,PO-1117,1,Corporate Office Janitorial Services,Facilities,2,3500.0,7000.0
+POL-5228,PO-1117,2,Dell UltraSharp 27 Monitor,IT Hardware,30,380.0,11400.0
+POL-5229,PO-1118,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5230,PO-1118,2,Industrial Grade Fasteners (Box 5000),Raw Materials,2,420.0,840.0
+POL-5231,PO-1118,3,External Legal Advisory Hours,Professional Services,20,650.0,13000.0
+POL-5232,PO-1119,1,Corporate Office Janitorial Services,Facilities,2,3500.0,7000.0
+POL-5233,PO-1119,2,Commercial HVAC Air Filter Box,Facilities,30,120.0,3600.0
+POL-5234,PO-1119,3,Enterprise Cloud Hosting (Monthly),Software Licenses,5,8500.0,42500.0
+POL-5235,PO-1120,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,2,12000.0,24000.0
+POL-5236,PO-1121,1,Industrial Pallet Racking Units,Operations,30,1600.0,48000.0
+POL-5237,PO-1121,2,Industrial Grade Fasteners (Box 5000),Raw Materials,30,420.0,12600.0
+POL-5238,PO-1121,3,Salesforce CRM Enterprise Seat (Annual),Software Licenses,30,1800.0,54000.0
+POL-5239,PO-1122,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5240,PO-1122,2,Digital Ad Campaign Management Fee,Corporate Marketing,2,7500.0,15000.0
+POL-5241,PO-1122,3,Cybersecurity SOC Monitoring (Monthly),Software Licenses,2,12000.0,24000.0
+POL-5242,PO-1123,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,20,3100.0,62000.0
+POL-5243,PO-1123,2,Corrugated Packaging Boxes (Batch 1000),Operations,30,850.0,25500.0
+POL-5244,PO-1123,3,Cybersecurity SOC Monitoring (Monthly),Software Licenses,20,12000.0,240000.0
+POL-5245,PO-1124,1,Commercial HVAC Air Filter Box,Facilities,2,120.0,240.0
+POL-5246,PO-1124,2,Corrugated Packaging Boxes (Batch 1000),Operations,10,850.0,8500.0
+POL-5247,PO-1124,3,Industrial Pallet Racking Units,Operations,5,1600.0,8000.0
+POL-5248,PO-1125,1,Forklift Maintenance & Battery Pack,Operations,2,2800.0,5600.0
+POL-5249,PO-1125,2,Dell UltraSharp 27 Monitor,IT Hardware,2,380.0,760.0
+POL-5250,PO-1125,3,Dell Latitude 5540 Laptop,IT Hardware,30,1250.0,37500.0
+POL-5251,PO-1126,1,External Legal Advisory Hours,Professional Services,2,650.0,1300.0
+POL-5252,PO-1126,2,Industrial Pallet Racking Units,Operations,30,1600.0,48000.0
+POL-5253,PO-1126,3,Digital Ad Campaign Management Fee,Corporate Marketing,2,7500.0,15000.0
+POL-5254,PO-1127,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5255,PO-1128,1,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5256,PO-1129,1,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,15,3100.0,46500.0
+POL-5257,PO-1129,2,Digital Ad Campaign Management Fee,Corporate Marketing,10,7500.0,75000.0
+POL-5258,PO-1130,1,Global Freight Logistics & Drayage,Logistics,10,2200.0,22000.0
+POL-5259,PO-1130,2,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5260,PO-1131,1,Industrial Grade Fasteners (Box 5000),Raw Materials,20,420.0,8400.0
+POL-5261,PO-1131,2,Ergonomic Mesh Task Chairs,Facilities,10,450.0,4500.0
+POL-5262,PO-1131,3,Corrugated Packaging Boxes (Batch 1000),Operations,2,850.0,1700.0
+POL-5263,PO-1132,1,Ergonomic Mesh Task Chairs,Facilities,20,450.0,9000.0
+POL-5264,PO-1133,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,5,12000.0,60000.0
+POL-5265,PO-1133,2,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,10,3100.0,31000.0
+POL-5266,PO-1134,1,Industrial Pallet Racking Units,Operations,10,1600.0,16000.0
+POL-5267,PO-1134,2,Global Freight Logistics & Drayage,Logistics,10,2200.0,22000.0
+POL-5268,PO-1134,3,Dell Latitude 5540 Laptop,IT Hardware,30,1250.0,37500.0
+POL-5269,PO-1135,1,External Legal Advisory Hours,Professional Services,2,650.0,1300.0
+POL-5270,PO-1135,2,Cybersecurity SOC Monitoring (Monthly),Software Licenses,20,12000.0,240000.0
+POL-5271,PO-1135,3,Commercial HVAC Air Filter Box,Facilities,30,120.0,3600.0
+POL-5272,PO-1136,1,Global Freight Logistics & Drayage,Logistics,20,2200.0,44000.0
+POL-5273,PO-1136,2,Dell UltraSharp 27 Monitor,IT Hardware,5,380.0,1900.0
+POL-5274,PO-1136,3,Cybersecurity SOC Monitoring (Monthly),Software Licenses,20,12000.0,240000.0
+POL-5275,PO-1137,1,Ergonomic Mesh Task Chairs,Facilities,10,450.0,4500.0
+POL-5276,PO-1137,2,Commercial HVAC Air Filter Box,Facilities,20,120.0,2400.0
+POL-5277,PO-1138,1,Industrial Pallet Racking Units,Operations,20,1600.0,32000.0
+POL-5278,PO-1138,2,Enterprise Cloud Hosting (Monthly),Software Licenses,30,8500.0,255000.0
+POL-5279,PO-1139,1,Corporate Office Janitorial Services,Facilities,5,3500.0,17500.0
+POL-5280,PO-1139,2,Global Freight Logistics & Drayage,Logistics,5,2200.0,11000.0
+POL-5281,PO-1140,1,Commercial HVAC Air Filter Box,Facilities,15,120.0,1800.0
+POL-5282,PO-1140,2,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5283,PO-1140,3,Enterprise Cloud Hosting (Monthly),Software Licenses,30,8500.0,255000.0
+POL-5284,PO-1141,1,Dell UltraSharp 27 Monitor,IT Hardware,30,380.0,11400.0
+POL-5285,PO-1141,2,Cisco Catalyst 9300 Switch,IT Hardware,20,4200.0,84000.0
+POL-5286,PO-1142,1,Dell UltraSharp 27 Monitor,IT Hardware,10,380.0,3800.0
+POL-5287,PO-1142,2,Dell Latitude 5540 Laptop,IT Hardware,20,1250.0,25000.0
+POL-5288,PO-1143,1,Enterprise Cloud Hosting (Monthly),Software Licenses,10,8500.0,85000.0
+POL-5289,PO-1144,1,Ergonomic Mesh Task Chairs,Facilities,15,450.0,6750.0
+POL-5290,PO-1144,2,Salesforce CRM Enterprise Seat (Annual),Software Licenses,20,1800.0,36000.0
+POL-5291,PO-1144,3,External Legal Advisory Hours,Professional Services,10,650.0,6500.0
+POL-5292,PO-1145,1,Corporate Office Janitorial Services,Facilities,10,3500.0,35000.0
+POL-5293,PO-1145,2,Forklift Maintenance & Battery Pack,Operations,20,2800.0,56000.0
+POL-5294,PO-1146,1,External Legal Advisory Hours,Professional Services,30,650.0,19500.0
+POL-5295,PO-1147,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,30,12000.0,360000.0
+POL-5296,PO-1147,2,Digital Ad Campaign Management Fee,Corporate Marketing,20,7500.0,150000.0
+POL-5297,PO-1148,1,Cisco Catalyst 9300 Switch,IT Hardware,2,4200.0,8400.0
+POL-5298,PO-1148,2,Enterprise Cloud Hosting (Monthly),Software Licenses,20,8500.0,170000.0
+POL-5299,PO-1149,1,Digital Ad Campaign Management Fee,Corporate Marketing,5,7500.0,37500.0
+POL-5300,PO-1149,2,Dell UltraSharp 27 Monitor,IT Hardware,20,380.0,7600.0
+POL-5301,PO-1149,3,Industrial Grade Fasteners (Box 5000),Raw Materials,15,420.0,6300.0
+POL-5302,PO-1150,1,Corrugated Packaging Boxes (Batch 1000),Operations,20,850.0,17000.0
+POL-5303,PO-1150,2,Cisco Catalyst 9300 Switch,IT Hardware,2,4200.0,8400.0
+POL-5304,PO-1151,1,External Legal Advisory Hours,Professional Services,2,650.0,1300.0
+POL-5305,PO-1151,2,Industrial Grade Fasteners (Box 5000),Raw Materials,30,420.0,12600.0
+POL-5306,PO-1152,1,Industrial Pallet Racking Units,Operations,15,1600.0,24000.0
+POL-5307,PO-1153,1,Corporate Office Janitorial Services,Facilities,5,3500.0,17500.0
+POL-5308,PO-1154,1,Dell UltraSharp 27 Monitor,IT Hardware,5,380.0,1900.0
+POL-5309,PO-1154,2,Digital Ad Campaign Management Fee,Corporate Marketing,30,7500.0,225000.0
+POL-5310,PO-1154,3,Industrial Grade Fasteners (Box 5000),Raw Materials,2,420.0,840.0
+POL-5311,PO-1155,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,5,12000.0,60000.0
+POL-5312,PO-1155,2,Raw Sheet Metal - Aluminum 6061 (Ton),Raw Materials,15,3100.0,46500.0
+POL-5313,PO-1156,1,SOX Compliance Internal Audit Consulting,Professional Services,5,450.0,2250.0
+POL-5314,PO-1156,2,Industrial Grade Fasteners (Box 5000),Raw Materials,10,420.0,4200.0
+POL-5315,PO-1157,1,SOX Compliance Internal Audit Consulting,Professional Services,15,450.0,6750.0
+POL-5316,PO-1157,2,Industrial Grade Fasteners (Box 5000),Raw Materials,5,420.0,2100.0
+POL-5317,PO-1157,3,Cybersecurity SOC Monitoring (Monthly),Software Licenses,10,12000.0,120000.0
+POL-5318,PO-1158,1,Dell UltraSharp 27 Monitor,IT Hardware,20,380.0,7600.0
+POL-5319,PO-1158,2,Cisco Catalyst 9300 Switch,IT Hardware,30,4200.0,126000.0
+POL-5320,PO-1158,3,Ergonomic Mesh Task Chairs,Facilities,30,450.0,13500.0
+POL-5321,PO-1159,1,Ergonomic Mesh Task Chairs,Facilities,20,450.0,9000.0
+POL-5322,PO-1159,2,External Legal Advisory Hours,Professional Services,10,650.0,6500.0
+POL-5323,PO-1159,3,Commercial HVAC Air Filter Box,Facilities,10,120.0,1200.0
+POL-5324,PO-1160,1,Corrugated Packaging Boxes (Batch 1000),Operations,10,850.0,8500.0
+POL-5325,PO-1161,1,Enterprise Cloud Hosting (Monthly),Software Licenses,1,14500.0,14500.0
+POL-5326,PO-1162,1,Corporate Office Janitorial Services,Facilities,2.5,3500.0,8750.0
+POL-5327,PO-1163,1,Dell Latitude 5540 Laptop,IT Hardware,50,1250.0,62500.0
+POL-5328,PO-1164,1,Dell UltraSharp 27 Monitor,IT Hardware,20,380.0,7600.0
+POL-5329,PO-1165,1,Industrial Pallet Racking Units,Operations,10,1600.0,16000.0
+POL-5330,PO-1166,1,Industrial Grade Fasteners (Box 5000),Raw Materials,22,420.0,9600.0
+POL-5331,PO-1167,1,Industrial Grade Fasteners (Box 5000),Raw Materials,21,420.0,9200.0
+POL-5332,PO-1168,1,Industrial Grade Fasteners (Box 5000),Raw Materials,21,420.0,9200.0
+POL-5333,PO-1169,1,Corrugated Packaging Boxes (Batch 1000),Operations,11,850.0,9800.0
+POL-5334,PO-1170,1,Corrugated Packaging Boxes (Batch 1000),Operations,11,850.0,9800.0
+POL-5335,PO-1171,1,Strategic Sourcing Consulting,Professional Services,1,18000.0,18000.0
+POL-5336,PO-1172,1,Strategic Sourcing Consulting,Professional Services,1,17000.0,17000.0
+POL-5337,PO-1173,1,Strategic Software Infrastructure Upgrade,Software Licenses,1,42000.0,42000.0
+POL-5338,PO-1174,1,Reconditioned Industrial Press Units,Operations,2,39000.0,78000.0
+POL-5339,PO-1175,1,Raw Sheet Metal - Aluminum 6061,Raw Materials,4.838,3100.0,15000.0
+POL-5340,PO-1176,1,Enterprise Cloud Hosting (Monthly),Software Licenses,1,8500.0,8500.0
+POL-5341,PO-1177,1,Enterprise Cloud Infrastructure Cluster,Software Licenses,8,8500.0,68000.0
+POL-5342,PO-1178,1,Cybersecurity SOC Monitoring (Monthly),Software Licenses,4,12000.0,48000.0
+POL-5343,PO-1179,1,Ergonomic Mesh Task Chairs,Facilities,41.11,450.0,18500.0
